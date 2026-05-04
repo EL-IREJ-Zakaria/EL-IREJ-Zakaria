@@ -22,7 +22,7 @@
 🌐 Indrive — Car Rental System
 <div style="border: 2px solid #00eaff; border-radius: 12px; padding: 12px; box-shadow: 0 0 25px #00eaff;"> <b>Tech:</b> PHP, MySQL, Bootstrap <b>Status:</b> In progress 🚧 </div> </td> <td>
 📱 MyFirstApplication — Kotlin & Flutter Base App
-<div style="border: 2px solid #a259ff; border-radius: 12px; padding: 12px; box-shadow: 0 0 25px #a259ff;"> <b>Tech:</b> Kotlin, Android </div> </td> </tr> <tr> <td>
+<div style="border: 2px solid #a259ff; border-radius: 12px; padding: 12px; box-shadow: 0 0 25px #a259ff;"> <b>Tech:</b> Kotlin , Flutter , Android </div> </td> </tr> <tr> <td>
 🏨 Sonacaf — Hotel Booking
 <div style="border: 2px solid #ff00ff; border-radius: 12px; padding: 12px; box-shadow: 0 0 25px #ff00ff;"> <b>Tech:</b> PHP, MySQL </div> </td> <td>
 🖥️ Projet2 — Web App + Admin
